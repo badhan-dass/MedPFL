@@ -1,5 +1,5 @@
 # MedPFL
-[The repository contains the code for MedPFL framework. The paper has been published in the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023)]
+The repository contains the code for MedPFL framework. The paper has been published in the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023)
 
 The paper can be found at: https://arxiv.org/pdf/2311.06643.pdf
 
